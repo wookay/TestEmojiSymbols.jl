@@ -1,0 +1,4 @@
+name = "TestEmojiSymbols"
+uuid = "0d417db9-b8bd-42f2-918e-acaefb7459c1"
+authors = ["WooKyoung Noh <wookay.noh@gmail.com>"]
+version = "0.1.0"
